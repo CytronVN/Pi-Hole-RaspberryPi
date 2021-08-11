@@ -7,6 +7,9 @@ Trong bài hướng dẫn, mình sử dụng Raspberry Pi 4 và kết nối tớ
 Cú pháp tự động cài đặt Pi-Hole
 >curl -sSL https://install.pi-hole.net | bash
 
+Danh sách Ads-List/Host-List
+>https://github.com/CytronVN/Pi-Hole-RaspberryPi/blob/main/adslist.txt
+
 Để đặt lại mật khẩu Pi-Hole
 >pihole -a -p
 
